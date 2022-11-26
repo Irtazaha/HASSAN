@@ -24,7 +24,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-openhttps:// ')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -37,7 +37,7 @@ def FD():
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100077309041488')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -57,10 +57,10 @@ def o():
     if opt == '1':
         i()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100077309041488')
         return None
     if None == '3':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-open https://youtube.com/@angargaming5708')
         return None
     if None == '4':
         os.system('xdg-open https://facebook.com/groups/1730670617333282/')
@@ -166,20 +166,46 @@ ha = current.day
 today = date.today()
 logo =                                          ("""   
 
-\033[1;34m         888b     d888  .d88888b.   .d8888b.  888    888 8888888 888b    888
-\033[1;35m         8888b   d8888 d88P" "Y88b d88P  Y88b 888    888   888   8888b   888
-\033[1;35m         88888b.d88888 888     888 Y88b.      888    888   888   88888b  888     
-\033[1;32m         888Y88888P888 888     888  "Y888b.   8888888888   888   888Y88b 888
-\033[1;32m         888 Y888P 888 888     888     "Y88b. 888    888   888   888 Y88b888
-\033[1;35m         888  Y8P  888 888     888       "888 888    888   888   888  Y88888
-\033[1;35m         888   "   888 Y88b. .d88P Y88b  d88P 888    888   888   888   Y8888
-\033[1;32m         888       888  "Y88888P"   "Y8888P"  888    888 8888888 888    Y888
+,#####,
+                 #_   _#
+                 |a` `a|
+                 |  u  |
+                 \  =  /
+                 |\___/|
+        ___ ____/:     :\____ ___
+      .'   `.-===-\   /-===-.`   '.
+     /      .-"""""-.-"""""-.      \
+    /'             =:=             '\
+  .'  ' .:    o   -=:=-   o    :. '  `.
+  (.'   /'. '-.....-'-.....-' .'\   '.)
+  /' ._/   ".     --:--     ."   \_. '\
+ |  .'|      ".  ---:---  ."      |'.  |
+ |  : |       |  ---:---  |       | :  |
+  \ : |       |_____._____|       | : /
+  /   (       |----|------|       )   \
+ /... .|      |    |      |      |. ...\
+|::::/'' jgs /     |       \     ''\::::|
+'""""       /'    .L_      `\       """"'
+           /'-.,__/` `\__..-'\
+          ;      /     \      ;
+          :     /       \     |
+          |    /         \.   |
+          |`../           |  ,/
+          ( _ )           |  _)
+          |   |           |   |
+          |___|           \___|
+          :===|            |==|
+           \  /            |__|
+           /\/\           /"""`8.__
+           |oo|           \__.//___)
+           |==|
+           \__/
 
  
 \033[1;37m================= \33[32;45mIRTAZA\33[0;m =====================
-\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mIRTAZA\33[0;m\033[1;32m && \033[1;33mMOSHIN\33[0;m
-\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m MUHAMMAD MOSHIN
-\033[1;32m     \033[1;35mGITHUB       :  \033[1;35mMOSHIN-007
+\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33mIRTAZA\33[0;m\033[1;32m && \033[1;33m99ANGAR\33[0;m
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m 99 ANGAR
+\033[1;32m     \033[1;35mGITHUB       :  \033[1;35m99AANGAR
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
 \033[1;32m     \033[1;35mTEAM         :  \033[1;35mI.M
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m2.3
@@ -187,7 +213,7 @@ logo =                                          ("""
  
        \33[37;41m\t WELLCOME TO M.I.H TOOL\33[0;m
  
-\033[1;37m================== \33[32;45mSANA\33[0;m ======================\n""")
+\033[1;37m================== \33[32;45mANGAR\33[0;m ======================\n""")
 loop = 0
 oks = []
 cps = []
@@ -217,7 +243,7 @@ try:
 except:print('\n\033[1;31mNo internet connection ... \033[0;97m')
 #global functions
 def dynamic(text):
-    titik = ['.   ','..  ','... ','.... ']
+    titik = ['https://www.tiktok.com/@99angar6?_t=8Xfe666WcgT&_r=1']
     for o in titik:
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
