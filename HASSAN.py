@@ -33,11 +33,11 @@ def ud():
 def FD():
     os.system('clear')
     print(logo)
-    print('\x1b[1;33m [1] FOLLOW ME ON FACEBOOK')
+    print('\x1b[1;33m [1] JOIN MY FACEBOOK GROUP')
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
-        os.system('xdg-open https://www.facebook.com/musa.khan.39545')
+        os.system('xdg-open https://facebook.com/groups/678356470596560/')
         o()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
